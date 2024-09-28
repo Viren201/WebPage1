@@ -1,3 +1,3 @@
-nasaP1.html￼Enter
+nasaP1.html
 style.css
 script.js
